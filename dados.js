@@ -1,6 +1,6 @@
 let dados = [
    {
-      tirulo: "Yago Mateus dos Santos",
+      titulo: "Yago Mateus dos Santos",
       descricao:
          "Yago Matheus dos Santos, nascido em Tupã, São Paulo, em 1999, é um dosdestaques do basquete brasileiro. Revelado pelo Palmeiras, o armador conquistou títulos importantes como o NBB pelo Flamengo e, atualmente, defende as cores do KK Crvena Zvezda, um dos maiores clubes da Europa. Sua habilidade, visão de jogo e agilidade o destacam nas quadras, projetando-o como uma das grandes promessas do basquete nacional. Com uma carreira promissora pela frente, Yago tem tudo para se tornar um dos maiores jogadores brasileiros de todos os tempos.",
       linkSelecao: "https://www.cbb.com.br/selecao-masculina/30/yago-mateus",
