@@ -22,7 +22,7 @@ let dados = [
    {
       id: 3,
       imagem: "img/felicio.png",
-      titulo: "Cristiano Felício",
+      titulo: "Cristiano Felicio",
       descricao:
          "Cristiano Felício é um pivô brasileiro conhecido por sua força física e presença defensiva. Com uma longa trajetória no basquete profissional, Felício já defendeu diversas equipes, incluindo times da NBA. Sua experiência e liderança são fundamentais para a seleção brasileira.",
       posicao: "Pivô",
