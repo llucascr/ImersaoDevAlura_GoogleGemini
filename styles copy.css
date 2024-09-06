@@ -59,14 +59,29 @@ section button:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra mais intensa */
 }
 
+section img {
+    /* max-width: 90%; */
+    width: 200px;
+    height: 170px;
+    object-fit: cover;
+    margin: 10px;
+}
+
+section h2, p {
+    margin: 10px 0;
+    text-align: center;
+}
+
 /* Estiliza a caixa de resultados da pesquisa */
 .resultados-pesquisa {
     width: 60rem; /* Largura máxima da caixa de resultados */
     height: 46vh; /* Altura máxima da caixa de resultados */
     overflow-y: auto; /* Adiciona rolagem vertical se necessário */
     margin-top: 1rem; /* Espaçamento acima da caixa de resultados */
+    margin-left: 4rem;
     padding: 1rem; /* Espaçamento interno */
     border-radius: 0.6rem; /* Borda arredondada */
+    flex-direction: row; /* Alinha os itens na vertical */
 }
 
 /* Estiliza cada item de resultado */
