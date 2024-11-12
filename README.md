@@ -37,10 +37,3 @@ Quer ajudar a melhorar a aplicação? Todo mundo é bem-vindo! Se você tem algu
 ** Ajude a espalhar a palavra sobre essa aplicação incrível! Compartilhe com seus amigos e familiares que amam basquete!**
 
 ****
-
-**Observações:**
-
-* **Personalize:** Sinta-se à vontade para personalizar este README com mais detalhes sobre a sua aplicação, como o processo de instalação, as tecnologias específicas utilizadas e os planos futuros.
-* **Imagens:** Adicione imagens para deixar o README mais atrativo e visualmente interessante.
-* **Links:** Inclua links para os repositórios das bibliotecas e frameworks utilizados, caso aplicável.
-* **Agradecimentos:** Agradeça a qualquer pessoa que tenha contribuído para o projeto.
